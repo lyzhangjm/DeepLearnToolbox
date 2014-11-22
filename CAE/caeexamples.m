@@ -30,3 +30,4 @@ for i=1:numel(cae.ok{1});
     ff(i,:) = mm(:); 
 end; 
 figure;visualize(ff')
+ Is it end ?  why just train the cae, but don't test the performance of cae ?
